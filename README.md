@@ -12,4 +12,9 @@ Here is how you play the game:
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
+#### Instructions:
+- Up arrow to rotate
+- Left/Right arrows to move
+- Down arrow to speed up speed of drop
+
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
